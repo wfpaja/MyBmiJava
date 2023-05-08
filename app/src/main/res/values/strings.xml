@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My BMI</string>
+    <string name="height_text">身高</string>
+    <string name="name_text">名字</string>
+    <string name="weight_text">體重</string>
+    <string name="bmi_text">BMI</string>
+    <string name="et_height_hint">請輸入身高</string>
+    <string name="et_weight_hint">請輸入體重</string>
+    <string name="et_name_hint">請輸入名字</string>
+    <string name="calculating_bmi">計算BMI</string>
+    <string name="no_format">編號: %d</string>
+    <string name="name_format">名字: %s</string>
+    <string name="age_format">年齡: %d</string>
+    <string name="thin_format">過瘦: %d 位</string>
+    <string name="normal_format">標準: %d 位</string>
+    <string name="fat_format">過胖: %d 位</string>
+    <string name="input_have_empty">輸入有空值</string>
+    <string name="input_no_zero">輸入值不得為0</string>
+    <string name="clear_all_text">刪除全部</string>
+    <string name="delete_by_selected_text">刪除已選</string>
+    <string name="clear_text">清除</string>
+    <string name="input_error">輸入的數值有誤，請重新輸入</string>
+</resources>
