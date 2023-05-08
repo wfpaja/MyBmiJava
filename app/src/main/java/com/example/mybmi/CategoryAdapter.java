@@ -20,7 +20,6 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.ViewHo
     public CategoryAdapter(BmiViewModel viewModel) {
         bmiViewModel = viewModel;
         data = bmiViewModel.getCategoryDataList();
-        int a = 0;
     }
 
     @NonNull
